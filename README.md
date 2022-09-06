@@ -24,8 +24,7 @@
 |:--------------:|----------------|----------------|
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/ezergrief">t.me/ezer1337</a> |
 
-| <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://nbvk.ml">nbvk.ml</a> (work again) |
-| <img src="https://google.com/s2/favicons?domain=https://qiwi.com/" height="16px"> | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
+| <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://sourescube.ru">sourescube.ru</a> (work again) |
 
 ### discord-сервер
 <div>
@@ -36,17 +35,12 @@
 
 
 ### моя активность на github
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nubovik01&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrEzerYT&theme=github)
 
 <div>
-  <img height="180em" width="378em" src="https://github-readme-stats.vercel.app/api?username=nubovik01&count_private=true&show_icons=true&theme=github_dark"/>
-  <img height="180em" width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubovik01&langs_count=6&layout=compact&theme=github_dark"/>
+  <img height="180em" width="378em" src="https://github-readme-stats.vercel.app/api?username=MrEzerYT&count_private=true&show_icons=true&theme=github_dark"/>
+  <img height="180em" width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrEzerYT&langs_count=6&layout=compact&theme=github_dark"/>
 </div>
 
 ### трофеи профиля
-<img src="https://github-profile-trophy.vercel.app/?username=nubovik01&column=3&theme=onedark"/>
-
-### статистика wakatime
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nubovik&theme=github_dark"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=MrEzerYT&column=3&theme=onedark"/>
