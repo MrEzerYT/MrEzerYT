@@ -10,3 +10,27 @@
 <a href="https://github.com/mrezeryt">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MrEzerYT&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="MrEzerYT's GitHub Stats" />
 </a>
+<img src="https://cdn.discordapp.com/attachments/754717585534353519/953779377756323900/Nikita.png">
+<a href="https://github.com/mrezeryt"><img src="https://komarev.com/ghpvc/?username=MrEzerYT&label=просмотры+профиля" alt="Количество посещений этого GitHub профиля"></img></a>
+<br>
+
+### discord
+<div>
+  <img src="https://lanyard.cnrad.dev/api/578533097293873162?theme=dark&bg=36393f">
+</div>
+<div>
+  <a href="https://discord.gg/EJc8UC7yhZ">
+    <img src="https://invidget.switchblade.xyz/EJc8UC7yhZ">
+  </a>
+</div>
+
+### моя активность на github
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrezeryt&theme=github)
+
+<div>
+  <img height="180em" width="378em" src="https://github-readme-stats.vercel.app/api?username=mrezeryt&count_private=true&show_icons=true&theme=github_dark"/>
+  <img height="180em" width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrezeryt&langs_count=6&layout=compact&theme=github_dark"/>
+</div>
+
+### трофеи профиля
+<img src="https://github-profile-trophy.vercel.app/?username=mrezeryt&column=3&theme=onedark"/>
