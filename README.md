@@ -1,4 +1,4 @@
-<a href="https://github.com/mrezeryt"><img src="assets/images/helloimdan.png"></img>
+<a href="https://github.com/mrezeryt"><img src="assets/images/hello.png"></img>
 # Hello, I'm Dan!
 <a href="https://github.com/mrezeryt"><img src="https://komarev.com/ghpvc/?username=MrEzerYT&label=просмотры+профиля" alt="Количество посещений этого GitHub профиля"></img></a>
 </a>
