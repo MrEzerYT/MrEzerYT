@@ -2,6 +2,9 @@
 # Hello, I'm Dan!
 <a href="https://github.com/mrezeryt"><img src="https://komarev.com/ghpvc/?username=MrEzerYT&label=просмотры+профиля" alt="Количество посещений этого GitHub профиля"></img></a> [![wakatime](https://wakatime.com/badge/user/767dab1f-3bfb-423d-bbf9-cc78e2a9b345.svg)](https://wakatime.com/@mrezer)
 </a>
+
+[![Discord](https://lanyard.cnrad.dev/api/578533097293873162)](https://discord.com/users/578533097293873162)
+
 <div>
   <img height="180em" width="378em" src="https://github-readme-stats.vercel.app/api?username=mrezeryt&count_private=true&show_icons=true&theme=github_dark"/>
   <img height="180em" width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrezeryt&langs_count=6&layout=compact&theme=github_dark"/>
