@@ -1,7 +1,7 @@
 <a href="https://github.com/mrezeryt"><img src="assets/images/hellonew.png"></img>
 <h1 align="center">Hello, I'm <a href="https://mrezer.ru/" target="_blank">Dan!</a></h1> 
 <a href="https://github.com/mrezeryt"><img src="https://komarev.com/ghpvc/?username=MrEzerYT&label=просмотры+профиля" alt="Количество посещений этого GitHub профиля"></img></a>
-<a href="https://wakatime.com/@mrezer">[![wakatime](https://wakatime.com/badge/user/767dab1f-3bfb-423d-bbf9-cc78e2a9b345.svg)](https://wakatime.com/@mrezer)</a>
+[![wakatime](https://wakatime.com/badge/user/767dab1f-3bfb-423d-bbf9-cc78e2a9b345.svg)](https://wakatime.com/@mrezer)
 </a>
 
 [![Discord](https://lanyard.cnrad.dev/api/578533097293873162)](https://discord.com/users/578533097293873162)
