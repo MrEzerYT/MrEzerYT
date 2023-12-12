@@ -14,4 +14,4 @@
 ### Трофеи профиля
 <img src="https://github-profile-trophy.vercel.app/?username=mrezeryt&column=3&theme=onedark"/>
 
-<a href="https://mrezer.ru">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrezeryt)](https://git.io/streak-stats)</a>
+<a href="https://mrezer.ru">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrezeryt&theme=dark)](https://git.io/streak-stats)</a>
