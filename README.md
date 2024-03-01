@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrEzerYT&theme=discord" alt="MrEzerYT" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://mrezer.ru)
+- 🔭 I’m currently working on [Orders Panel](https://github.com/MrEzerYT/orders-panel)
 
 - 🌱 I’m currently learning **Java**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://t.me/ezer1337"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="t.me/ezer1337"></a>
 <a href="https://github.com/MrEzerYT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github.com/MrEzerYT"></a>
-<a href="https://discord.com/users/1104839293328969730"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/users/1104839293328969730"></a>
+<a href="https://discord.com/users/1193846220230242335"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/users/1193846220230242335"></a>
 <a href="mailto:ezer@mrezer.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -50,4 +50,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrEzerYT&theme=radical" alt="MrEzerYT" /></p>
 
-<p><img align="center" src="https://lanyard.cnrad.dev/api/1104839293328969730?theme=dark&bg=36393f" alt="MrEzerYT" /></p>
+<p><img align="center" src="https://lanyard.cnrad.dev/api?1193846220230242335?theme=dark&bg=36393f" alt="MrEzerYT" /></p>
