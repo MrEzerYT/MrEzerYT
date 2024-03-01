@@ -50,4 +50,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrEzerYT&theme=radical" alt="MrEzerYT" /></p>
 
-<p><img align="center" src="https://lanyard.cnrad.dev/api?1193846220230242335?theme=dark&bg=36393f" alt="MrEzerYT" /></p>
+<p><img align="center" src="https://lanyard.cnrad.dev/api/1193846220230242335?theme=dark&bg=36393f" alt="MrEzerYT" /></p>
