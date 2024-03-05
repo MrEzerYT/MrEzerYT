@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrEzerYT</h1>
-<h3 align="center">I'm developer from 💙💛 Ucraine</h3>
+<h3 align="center">I'm developer from 💙💛 Uкraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrEzerYT&label=Profile%20views&color=0e75b6&style=flat" alt="MrEzerYT" />
 <a href="https://wakatime.com/@767dab1f-3bfb-423d-bbf9-cc78e2a9b345"><img src="https://wakatime.com/badge/user/767dab1f-3bfb-423d-bbf9-cc78e2a9b345.svg" alt="Total time coded since Sep 25 2023" /></a><br>
