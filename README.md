@@ -55,3 +55,5 @@
 <p><img align="center" src="https://lanyard.cnrad.dev/api/1193846220230242335?theme=dark&bg=36393f" alt="MrEzerYT" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrEzer&show_icons=true&locale=ru&theme=radical" alt="MrEzerYT" /></p>
+
+<p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31jghaqdiqe3li72zn4c5ymjxufq" alt="MrEzerYT" /></p>
