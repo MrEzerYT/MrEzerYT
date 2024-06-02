@@ -57,3 +57,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrEzer&show_icons=true&locale=ru&theme=radical" alt="MrEzerYT" /></p>
 
 <p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31jghaqdiqe3li72zn4c5ymjxufq" alt="MrEzerYT" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MrEzerYT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
