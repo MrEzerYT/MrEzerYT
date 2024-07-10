@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrEzerYT&theme=discord" alt="MrEzerYT" /></a> </p>
 
-- 🔭 I’m currently working on [Disnake Bot Template](https://github.com/MrEzerYT/disnake-bot-template)
+- 🔭 I’m currently working on [LaryBot](https://github.com/Lary-Developers/LaryBot)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I love pizza**
 
